@@ -1,0 +1,36 @@
+.navbar-brand {
+    padding-right: 10px;
+}
+
+.logo {
+    width: 100px;
+    height: auto;
+    position: absolute;
+}
+
+.text-under-logo {
+    display: block;
+    padding-top: 30px;
+    font-size: 12px;
+    margin: 0 auto;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    font-weight: bold;
+    color: black;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #69c0ff;
+}
+
+.fa.fa-sign-out {
+    font-size: 35px;
+    color: #69c0ff;
+    padding-left: 20px;
+}
+
+.fa.fa-user-o {
+    font-size: 30px;
+    color: #69c0ff;
+}

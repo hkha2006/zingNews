@@ -1,0 +1,9 @@
+export { default as News } from "./Page/News/index_news";
+export { default as Admin } from "./Page/Admin/index_admin";
+export { default as Home } from "./Page/Home/index_home";
+export { default as Book } from "./Page/Books/index_book"
+export { default as Header } from "./Common/Header/index_header";
+export { default as Footer } from "./Common/Footer/index_footer";
+export { default as Error } from "./Page/Error/index_error"
+export { default as Logout } from "./Page/Logout/index"
+export { default as DefaultLayout } from "../Components/Common/DefaultLayout/index"
